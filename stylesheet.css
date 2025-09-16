@@ -1,0 +1,34 @@
+footer { font-family: 'Times New Roman', serif;
+		background-color: #88453a;
+		color: #ffeaca; }
+
+
+body { 	text-align: center;
+		background-color: #ffeaca;}
+
+
+p {		font-family: Verdana, sans-serif;}
+
+
+h1 {	font-family: 'Brush Script MT', cursive;
+		background-color: #88453a;
+		color: #ffeaca;}
+
+
+h2 { 	font-family: 'Brush Script MT', cursive;}
+
+
+table { text-align: center;
+		background-color: #e1ad6d;
+		width: 20%;
+		margin-left: auto;
+		margin-right: auto;}
+
+
+th {	background-color: #88453a;
+		color: #ffeaca;} 
+
+
+.center {
+  margin-left: auto;
+  margin-right: auto;}
